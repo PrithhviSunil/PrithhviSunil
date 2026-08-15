@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   First-year CS (Co-op) @ University of Waterloo
-  Building backend systems, applied ML, and AI dev tooling.
+  Building backend systems, applied ML, and AI
 </p>
 
 <p align="center">
