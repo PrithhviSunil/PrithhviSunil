@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 ---
 
-Most Recent Project-
-**[Codebase RAG Assistant](https://github.com/PrithhviSunil/codebase-rag-assistant)** — a CLI that answers natural-language questions about a codebase using symbol-aware retrieval (tree-sitter + ChromaDB + sentence-transformers), exposed as an MCP tool so Claude Code can call it directly.
+Most Recent Project:
+**[Codebase RAG Assistant](https://github.com/PrithhviSunil/codebase-rag-assistant)**, which is a CLI that answers natural-language questions about a codebase using symbol-aware retrieval (tree-sitter + ChromaDB + sentence-transformers), exposed as an MCP tool so Claude Code can call it directly.
 
 ---
 
