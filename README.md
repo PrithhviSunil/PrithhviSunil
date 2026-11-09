@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey, I'm Prithhvi 👋</h1>
 
 <p align="center">
-  First-year CS (Co-op) @ University of Waterloo
+  Second-year CS (Co-op) @ University of Waterloo
   Building backend systems, applied ML, and AI
 </p>
 
@@ -54,8 +54,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Currently building
-
+Most Recent Project-
 **[Codebase RAG Assistant](https://github.com/PrithhviSunil/codebase-rag-assistant)** — a CLI that answers natural-language questions about a codebase using symbol-aware retrieval (tree-sitter + ChromaDB + sentence-transformers), exposed as an MCP tool so Claude Code can call it directly.
 
 ---
