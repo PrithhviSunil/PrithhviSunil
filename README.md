@@ -51,12 +51,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
-
----
-
-Most Recent Project:
-**[Codebase RAG Assistant](https://github.com/PrithhviSunil/codebase-rag-assistant)**, which is a CLI that answers natural-language questions about a codebase using symbol-aware retrieval (tree-sitter + ChromaDB + sentence-transformers), exposed as an MCP tool so Claude Code can call it directly.
-
 ---
 
 ### 📌 Featured projects
